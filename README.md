@@ -1,7 +1,6 @@
 # Analytics-System
-This is the new Repository for the project. Find the old one at https://github.com/reyanzaman/IUB-Analytics-System
 
-Website link: https://iub-analytics.herokuapp.com/
+<br /><strong><h3>Website link: https://iub-analytics.herokuapp.com/</h3></strong><br />
 
 The IUB Analytics System (IAS) allows an instant access to all the statistics of IUB students, courses, departments, classrooms and more.
 It serves as a database for storing, manipulating and analyzing records.
@@ -21,7 +20,7 @@ Database has been populated with dummy data for demonstration.
 Contributors: Khandoker Ashik Uz Zaman, Tanmoy Bhowmick, Nabilah Tabassum, Sadia Afrin, Muntaqa Musarrat
 
 
-<h2>Home Page</h2><br />
+<br /><h2>Home Page</h2><br />
 
 
 ![Landing Page](/public/screenshots/1.png?raw=true "Landing Page")
