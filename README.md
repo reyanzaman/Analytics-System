@@ -21,7 +21,7 @@ Database has been populated with dummy data for demonstration.
 Contributors: Khandoker Ashik Uz Zaman, Tanmoy Bhowmick, Nabilah Tabassum, Sadia Afrin, Muntaqa Musarrat
 
 
-Home Page
+<h1>Home Page</h1><br />
 
 
 ![Landing Page](/public/screenshots/1.png?raw=true "Landing Page")
@@ -31,7 +31,7 @@ Home Page
 ![Chart_Category_Selection](/public/screenshots/3.png?raw=true "Chart Categories")
 
 
-Generated Charts and Tables
+<br /><h1>Generated Charts and Tables</h1><br />
 
 
 ![Revenue_chart](/public/screenshots/4.png?raw=true "Revenue Chart")
@@ -47,16 +47,17 @@ Generated Charts and Tables
 ![Classroom_requirements](/public/screenshots/9.png?raw=true "Analysis of Classroom Requirements")
 
 
-Automated CSV File Upload System to Database
+<br /><h1>Automated CSV File Upload System to Database</h1><br />
 
 
 ![CSV](/public/screenshots/10.png?raw=true "Automated CSV Upload")
 
 
-Manual Data Entry to Database
+<br /><h1>Manual Data Entry to Database</h1><br />
 
 
 ![Manual_entry](/public/screenshots/11.png?raw=true "Manual Data Entry To Database")
 
 
-Made with ❤️ by IUB Students
+<br /><h2>Made with ❤️ by IUB Students</h2>
+<h6>27/04/2022</h6>
