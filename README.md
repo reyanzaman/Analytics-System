@@ -44,7 +44,7 @@ Generated Charts and Tables
 
 ![Unused_res](/public/screenshots/8.png?raw=true "Unused Resources Analysis")
 
-![Classroom_requirements](/public/screenshots/-.png?raw=true "Analysis of Classroom Requirements")
+![Classroom_requirements](/public/screenshots/9.png?raw=true "Analysis of Classroom Requirements")
 
 
 Automated CSV File Upload System to Database
